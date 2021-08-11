@@ -400,6 +400,7 @@ img {
 
 .site-header {
   background-color: #fff;
+  z-index: 1;
 }
 
 .header__wrapper {
@@ -510,7 +511,7 @@ img {
 
 .intro_bg-img-3 {
   position: absolute;
-  top: 80px;
+  top: 20px;
   right: 0;
 }
 
