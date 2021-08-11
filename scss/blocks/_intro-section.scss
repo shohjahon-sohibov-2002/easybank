@@ -1,0 +1,38 @@
+// INTRO-SECTION
+
+.main__intro-section {
+  background-color: #f2f2f2;
+}
+
+.intro__content {
+  padding-top: 170px;
+  padding-bottom: 170px;
+  width: 447px;
+}
+
+.intro__heading {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 24px;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 56px;
+  line-height: 64px;
+  letter-spacing: -1px;
+  color: $color-text-dark;
+}
+
+.intro__text {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 36px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.28125px;
+  color: $color-text;
+}
+
+
+
