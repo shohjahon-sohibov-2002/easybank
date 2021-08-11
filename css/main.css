@@ -496,6 +496,24 @@ img {
   color: #9597a5;
 }
 
+.intro_bg-img-1 {
+  position: absolute;
+  top: 50px;
+  right: 0;
+}
+
+.intro_bg-img-2 {
+  position: absolute;
+  top: 80px;
+  right: 0;
+}
+
+.intro_bg-img-3 {
+  position: absolute;
+  top: 80px;
+  right: 0;
+}
+
 .main__rectangle {
   background-color: #F4F5F7;
 }
